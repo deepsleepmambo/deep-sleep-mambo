@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deepsleepmambo.github.io/deep-sleep-mambo/sitemap.xml
